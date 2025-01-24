@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Arsal</h1>
 Welcome to my GitHub profile! I'm a passionate MERN Stack Developer dedicated to building efficient and scalable web applications.
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=HMSaadKhan&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=arsalyy&label=Profile%20views&color=0e75b6&style=flat"
   alt="arsalyy" /> 
   </p>
 
@@ -32,21 +32,21 @@ Welcome to my GitHub profile! I'm a passionate MERN Stack Developer dedicated to
 <!-- Top Languages Card -->
 <p>
   <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=HMSaadKhan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=arsalyy&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
        alt="arsalyy" />
 </p>
 
 <!-- GitHub Stats Card -->
 <p>
   <img align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=HMSaadKhan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff"
+       src="https://github-readme-stats.vercel.app/api?username=arsalyy&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff"
        alt="arsalyy" />
 </p>
 
 <!-- Streak Stats Card -->
 <p>
   <img align="center" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=HMSaadKhan&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=arsalyy&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"
        alt="arsalyy" />
 </p>
 
