@@ -24,8 +24,9 @@ Welcome to my GitHub profile! I'm a passionate MERN Stack Developer dedicated to
 
 ### 📫 How to reach me:
 
-- **Email**: arsalmuhammad70@gmail.com
 - **LinkedIn**: [Muhammad Arsal](https://www.linkedin.com/in/arsalyy/)
+- **Email**: arsalmuhammad70@gmail.com
+- **Contact | Whatsapp**: +92 347 0603867
 
 <h3>Statistical Data:</h3>
 
